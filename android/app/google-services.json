@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "806971825805",
+    "project_id": "wareflow-e26dc",
+    "storage_bucket": "wareflow-e26dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806971825805:android:1023ac40fddbaa46c0ccc4",
+        "android_client_info": {
+          "package_name": "com.example.wareflow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3kNydZ3gyXwZmdZVXgx2hQVxkp5rsqWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
